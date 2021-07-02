@@ -1,7 +1,7 @@
 import express from "express"
 import Knex from "knex"
 import * as bcrypt from 'bcrypt';
-
+a
 const app = express();
 const port = 8080;
 app.use(express.json());
